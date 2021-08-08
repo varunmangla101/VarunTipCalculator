@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\bin\Debug\netcoreapp3.1\VarunGrapeCityTest.exe
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\bin\Debug\netcoreapp3.1\VarunGrapeCityTest.deps.json
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\bin\Debug\netcoreapp3.1\VarunGrapeCityTest.runtimeconfig.json
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\bin\Debug\netcoreapp3.1\VarunGrapeCityTest.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\bin\Debug\netcoreapp3.1\VarunGrapeCityTest.dll
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\bin\Debug\netcoreapp3.1\VarunGrapeCityTest.pdb
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.VarunTipCalculator.resources
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.AssemblyInfo.cs
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.dll
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.pdb
+C:\Users\Dell\source\repos\VarunGrapeCityTest\VarunGrapeCityTest\obj\Debug\netcoreapp3.1\VarunGrapeCityTest.genruntimeconfig.cache
